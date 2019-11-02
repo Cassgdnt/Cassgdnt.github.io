@@ -1,0 +1,75 @@
+/*Général*/
+h1{
+    font-family: 'Martel', serif;
+}
+p{
+    font-family: 'Trirong', serif;
+}
+h2{
+    font-family: 'Martel', serif;  
+}
+.pres{
+    color: white;
+    text-align: center;
+}
+.portfolio{
+    text-align: center;
+    text-decoration: underline;
+  }
+.Experience{
+      text-align: center;
+      text-decoration: underline;
+  }
+
+/*Carrousel*/
+.bg-light{
+    background-color: #539987!important;
+}
+.carousel-item{
+    background: url('img/workstation-336369_1920.jpg');
+    height: 1180px;
+}
+.text{
+    margin-top: 400px;
+}
+
+.pres h1{
+    font-size: 45px;
+}
+.pres p{
+    font-size: 25px;
+}
+.social-media{
+    text-align: center;
+  }
+  .fa-linkedin {
+    color:#0e76a8;
+  }
+  
+  .fa-github {
+    color:black;
+  }
+/*Expériences*/
+.pro{
+    display: flex;
+}
+.pro i{
+    color:#539987 ;
+    margin-left: 255px;
+    margin-bottom: 20px;
+}
+/*Portfolio*/
+  .col-sm{
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .mt-0{
+      text-decoration: underline;
+  }
+  .description{
+      font-size: 25px;
+      font-weight: bold;
+  }
+ 
